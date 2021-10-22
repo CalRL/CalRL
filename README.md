@@ -4,7 +4,7 @@
 
 ![CalRL's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalRL&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalRL&layout=compact&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalRL&layout=compact)
 
 ## Get in touch
 - Twitter: https://twitter.com/HuskiiRL
