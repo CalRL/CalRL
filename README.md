@@ -1,5 +1,5 @@
 # Callum "Cal" Burns-O'Regan
-![age](https://img.shields.io/badge/Age-17yo-informational)
+![age](https://img.shields.io/badge/Age-18yo-informational)
 ![job](https://img.shields.io/badge/Working%20as-High%20Schooler-informational)
 
 
