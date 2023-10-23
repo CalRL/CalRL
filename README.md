@@ -5,7 +5,7 @@
 
 ![Cal's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalRL&show_icons=true&theme=react)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalRLzra&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalRL&layout=compact)
 
 ## Get in touch
 - Twitter: https://twitter.com/HuskiiRL
