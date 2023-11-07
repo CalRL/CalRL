@@ -11,7 +11,7 @@
 </p>
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=calrl" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=calrl"/>
   </a>
 </p>
 <p align="center">
