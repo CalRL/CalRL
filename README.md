@@ -14,12 +14,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,cs,py,java,azure&theme=light)"/>
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,cs,py,java,azure&)"/>
   </a>
 </p>
 <p align="center">
 Get in touch
-- Twitter: https://twitter.com/HuskiiRL
+- Website: https://cal.ceo/
 - Email: callumburnsoregan@gmail.com
-- Discord: cal.#0001
+- Discord: caldev
 </p>
