@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=calrl&layout=compact&langs_count=6&disable_animations=true&hide=css,razor,javascript,json,yaml"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=calrl&layout=compact&langs_count=6&disable_animations=true&hide=css,razor,json,yaml,xml,jupytyer"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalRL&layout=compact"/>
   </a>
 </p>
