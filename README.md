@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Age-20yo-informational">
   <img src="https://img.shields.io/badge/Working%20as-University%20Student-informational">
-  <a href="https://wakatime.com/@018b5d6a-ca16-4bfc-81ed-9c2b6be5904c"><img src="https://wakatime.com/badge/user/018b5d6a-ca16-4bfc-81ed-9c2b6be5904c.svg" alt="Total time coded since Oct 23 2023" /></a>
+  <!-- href="https://wakatime.com/@018b5d6a-ca16-4bfc-81ed-9c2b6be5904c"><img src="https://wakatime.com/badge/user/018b5d6a-ca16-4bfc-81ed-9c2b6be5904c.svg" alt="Total time coded since Oct 23 2023" /></-->
   <img src="https://komarev.com/ghpvc/?username=CalRL&color=blue">
 </p>
 
