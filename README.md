@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Age-20yo-informational">
   <img src="https://img.shields.io/badge/Working%20as-University%20Student-informational">
-  <!-- href="https://wakatime.com/@018b5d6a-ca16-4bfc-81ed-9c2b6be5904c"><img src="https://wakatime.com/badge/user/018b5d6a-ca16-4bfc-81ed-9c2b6be5904c.svg" alt="Total time coded since Oct 23 2023" /></-->
+  <a href="https://wakatime.com/@018b5d6a-ca16-4bfc-81ed-9c2b6be5904c"><img src="https://wakatime.com/badge/user/018b5d6a-ca16-4bfc-81ed-9c2b6be5904c.svg" alt="Total time coded since Oct 23 2023" /><a>
   <img src="https://komarev.com/ghpvc/?username=CalRL&color=blue">
 </p>
 
@@ -19,7 +19,6 @@
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=calrl&layout=compact&langs_count=6&disable_animations=true&hide=css,razor,json,yaml,xml,jupytyer"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalRL&layout=compact"/>
   </a>
 </p>
